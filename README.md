@@ -1,13 +1,11 @@
 # BubbleNets
-Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames
-
-Contact: Brent Griffin (griffb at umich dot edu)
+This repository is a implementation of article *Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames* by Brent Griffin.
 
 ## Change Logs
 
 * This repository is forked from [griffbr/BubbleNets](https://github.com/griffbr/BubbleNets)
 
-* Update to `Python3`
+* Update to `Python3` and verified in `Tensorflow==1.13.1`
 
 * Format code style
 
